@@ -1,0 +1,50 @@
+body{
+    background-color: rgb(203, 203, 203);
+    margin: 0;
+}
+header{
+    background-color: rgb(255, 247, 247);
+    text-align: center;
+    padding: 10px;
+}
+header h1{
+    margin: 0;
+    font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
+}
+
+
+div.container{
+    width: 600px;
+    margin: auto;
+    background-color: whitesmoke;
+}
+div.post{
+    margin-top: 10px;
+}
+
+div.post img{
+    width: 100%;
+    
+}
+div.post h2{
+    margin: 0;
+    padding: 8px;
+    font-size: 23px;
+    font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
+    display: inline-block;
+    width: 80%;
+}
+div.post span{
+    float: right;
+    color: gray;
+    margin-top: 16px;
+    width: 10%;
+    font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
+
+}
+div.post p{
+    padding-bottom: 8px;
+    margin: 8px;
+    font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
+    font-size: 14px;
+}
